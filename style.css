@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(0, 0, 0, 0.1);
+    margin: 0;
+    padding: 0;
+}
+
+.w-51{
+    width: 400px !important;
+    min-width: 400px !important;
+}
+
+.head1{
+    color: #1c1e21;
+    font-size: 25px;
+    line-height: 32px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.head2{
+    color: #606770;
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+.w-30{
+    width: 32% !important;
+}
+
+.w-40{
+    width: 49% !important;
+}
+
+.label1{
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+h4.footer_details{
+    font-size: 11px;
+    color: rgb(119, 119, 119);
+    line-height: 14.74px;
+    font-weight: 400;
+    vertical-align: baseline;
+    letter-spacing: normal;
+}
+
+a.footer_links{
+    text-decoration: none;
+}
+
+a.footer_links:hover{
+    text-decoration: underline;
+}
